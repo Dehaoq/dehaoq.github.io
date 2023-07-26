@@ -19,7 +19,6 @@ Research Interests
 Education
 ======
 <ul>
-<p>
 <font size=3> 
 <li>Ph.D. in <strong>Computer Science</strong>, Clemson University 
 , USA , <em>[Apr. 2023 - Present]</em>
@@ -44,7 +43,6 @@ Dissertation: <a href="[https://www.w3schools.com/](https://tigerprints.clemson.
 , China , <em>[Sep. 2013 - Jun. 2017]</em>
 </font>
 </li>
-</p>
 </ul>
 
 Getting started
