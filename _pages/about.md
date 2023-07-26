@@ -18,7 +18,7 @@ Research Interests
 
 Education
 ======
-</ul>
+
 
 <font size=3>
 <ul>
@@ -26,7 +26,7 @@ Education
 
 
 </font>
-
+</ul>
 
 Getting started
 ======
