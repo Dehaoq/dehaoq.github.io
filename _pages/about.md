@@ -20,7 +20,7 @@ Education
 ======
 - Ph.D. in **Computer Science**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*April 2023 - Present*        
 
-- Ph.D. in **Electrical Engineering**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;*January 2020 - April 2023*
+- Ph.D. in **Electrical Engineering**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;*January 2020 - April 2023*
 
   Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
 
