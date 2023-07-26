@@ -18,7 +18,7 @@ Research Interests
 
 Education
 ======
-- Ph.D. in **Computer Science**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*April 2023 - Present*        
+- Ph.D. in **Computer Science**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*April 2023 - Present*        
 
 - Ph.D. in **Electrical Engineering**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*January 2020 - April 2023*
 
