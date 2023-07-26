@@ -18,15 +18,23 @@ Research Interests
 
 Education
 ======
-- Ph.D. in **Computer Science**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*April 2023 - Present*        
+Ph.D. in **Computer Science**, Clemson University 
 
-- Ph.D. in **Electrical Engineering**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;*January 2020 - April 2023*
+Clemson, USA, *April 2023 - Present*        
 
-  Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
+Ph.D. in **Electrical Engineering**, Clemson University 
 
-- Master in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *September 2017 - December 2019*
+Clemson, USA, *January 2020 - April 2023*
 
-- Bachelor in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*September 2013 - June 2017*
+Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
+
+Master in **Electrical and Computer Engineering**, Northeastern University 
+
+Shenyang, China *September 2017 - December 2019*
+
+Bachelor in **Electrical and Computer Engineering**, Northeastern University
+
+Shenyang, China*September 2013 - June 2017*
 
 Getting started
 ======
