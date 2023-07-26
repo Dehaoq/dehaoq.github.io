@@ -24,9 +24,9 @@ Education
 
   Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
 
-- Master in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*September 2017 - December 2019*
+- Master in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*September 2017 - December 2019*
 
-- Bachelor in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*September 2013 - June 2017*
+- Bachelor in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*September 2013 - June 2017*
 
 Getting started
 ======
