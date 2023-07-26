@@ -31,17 +31,14 @@ Education
 , USA , <em>[Jan. 2020 - Apr. 2023]</em>
 </font>
 </li>
-
 <font size=3> 
 Dissertation: <a href="[https://www.w3schools.com/](https://tigerprints.clemson.edu/all_dissertations/3316/)">Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker</a>
 </font>
-
 <font size=3> 
 <li>Master in <strong>Electrical and Computer Engineering</strong>, Northeastern University 
 , China , <em>[Sep. 2017 - Dec. 2019]</em>
 </font>
 </li>
-
 <font size=3> 
 <li>Bachelor in <strong>Electrical and Computer Engineering</strong>, Northeastern University
 , China , <em>[Sep. 2013 - Jun. 2017]</em>
