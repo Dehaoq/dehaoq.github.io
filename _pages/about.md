@@ -18,6 +18,7 @@ Research Interests
 
 Education
 ======
+<font size=7> 
 Ph.D. in **Computer Science**, Clemson University 
 , USA, *Apr. 2023 - Present*        
 
@@ -31,6 +32,8 @@ Master in **Electrical and Computer Engineering**, Northeastern University
 
 Bachelor in **Electrical and Computer Engineering**, Northeastern University
 , China, *Sep. 2013 - Jun. 2017*
+
+</font>
 
 Getting started
 ======
