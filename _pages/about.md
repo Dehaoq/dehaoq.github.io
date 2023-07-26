@@ -23,7 +23,7 @@ Education
 <font size=3>
 <ul>
   <li>Ph.D. in <strong>Computer Science</strong> , Clemson University , USA , <em>[Apr. 2023 - Present]</em></li>
-  <li>Ph.D. in <strong>Electrical Engineering</strong> , Clemson University , USA , <em>[Jan. 2020 - Apr. 2023]</em></li><br>
+  <li>Ph.D. in <strong>Electrical Engineering</strong> , Clemson University , USA , <em>[Jan. 2020 - Apr. 2023]</em></li>
   Dissertation: <a href="[https://www.w3schools.com/](https://tigerprints.clemson.edu/all_dissertations/3316/)">Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker</a>
   <li>Master in <strong>Electrical and Computer Engineering</strong> , Northeastern University , China , <em>[Sep. 2017 - Dec. 2019]</em></li>
 
