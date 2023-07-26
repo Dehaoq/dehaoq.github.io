@@ -18,12 +18,14 @@ Research Interests
 
 Education
 ======
+<ul>
 <p>
 <font size=3> 
-Ph.D. in <strong>Computer Science</strong>, Clemson University 
+<li>Ph.D. in <strong>Computer Science</strong>, Clemson University 
 , USA , <em>[Apr. 2023 - Present]</em>
 </font>
 <br>
+</li>
 <font size=3> 
 Ph.D. in <strong>Electrical Engineering</strong>, Clemson University 
 , USA , <em>[Jan. 2020 - Apr. 2023]</em>
@@ -43,7 +45,7 @@ Bachelor in <strong>Electrical and Computer Engineering</strong>, Northeastern U
 , China , <em>[Sep. 2013 - Jun. 2017]</em>
 </font>
 </p>
-
+</ul>
 
 Getting started
 ======
