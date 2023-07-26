@@ -22,19 +22,17 @@ Education
 
 - Ph.D. in **Electrical Engineering**, Clemson University
 
-January 2020 - April 2023, Clemson, USA
+  January 2020 - April 2023, Clemson, USA
 
-Dissertation: Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker
-
-<[https://www.markdownguide.org](https://tigerprints.clemson.edu/all_dissertations/3316/)>
+  Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
 
 - Master in **Electrical Engineering**, Northeastern University
 
-September 2017 - December 2019, Shenyang, China
+  September 2017 - December 2019, Shenyang, China
 
 - Bachelor in **Electrical Engineering**, Northeastern University
 
-September 2013 - June 2017, Shenyang, China
+  September 2013 - June 2017, Shenyang, China
 
 Getting started
 ======
