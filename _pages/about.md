@@ -30,11 +30,11 @@ Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, Syste
 
 Master in **Electrical and Computer Engineering**, Northeastern University 
 
-Shenyang, China *September 2017 - December 2019*
+Shenyang, China, *September 2017 - December 2019*
 
 Bachelor in **Electrical and Computer Engineering**, Northeastern University
 
-Shenyang, China*September 2013 - June 2017*
+Shenyang, China, *September 2013 - June 2017*
 
 Getting started
 ======
