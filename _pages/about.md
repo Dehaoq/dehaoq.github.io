@@ -18,7 +18,7 @@ Research Interests
 
 Education
 ======
-<font size=3.5>
+<font size=3>
 <ul>
   <li>Ph.D. in <strong>Computer Science</strong> , Clemson University , USA , <em>[Apr. 2023 - Present]</em></li>
   <li>Ph.D. in <strong>Electrical Engineering</strong> , Clemson University , USA , <em>[Jan. 2020 - Apr. 2023]</em></li>
