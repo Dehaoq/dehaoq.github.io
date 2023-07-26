@@ -24,9 +24,9 @@ Education
 <ul>
   <li>Ph.D. in <strong>Computer Science</strong>, Clemson University , USA , <em>[Apr. 2023 - Present]</em></li>
 
-
-</font>
 </ul>
+</font>
+
 
 Getting started
 ======
