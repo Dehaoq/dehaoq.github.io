@@ -18,7 +18,7 @@ Education
 ======
 - Ph.D. in **Computer Science**, Clemson University
   
-April 2023 - Present, Clemson, USA
+  April 2023 - Present, Clemson, USA
 
 - Ph.D. in **Electrical Engineering**, Clemson University
 
