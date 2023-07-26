@@ -84,9 +84,9 @@ author:
   avatar           : "Dehao.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Clemson, SC, USA"
-  employer         :
+  employer         : "Clemson University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SR9mg6EAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dehao-qin/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
