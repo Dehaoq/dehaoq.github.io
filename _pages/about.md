@@ -31,7 +31,6 @@ Ph.D. in <strong>Electrical Engineering</strong>, Clemson University
 <br>
 <font size=2> 
 Dissertation: <a href="[https://www.w3schools.com/](https://tigerprints.clemson.edu/all_dissertations/3316/)">Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker</a>
-
 </font>
 <br>
 <font size=2> 
