@@ -18,7 +18,7 @@ Research Interests
 
 Education
 ======
-- Ph.D. in **Computer Science**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*April 2023 - Present*        
+- Ph.D. in **Computer Science**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*April 2023 - Present*        
 
 - Ph.D. in **Electrical Engineering**, Clemson University, Clemson, USA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;*January 2020 - April 2023*
 
@@ -26,7 +26,7 @@ Education
 
 - Master in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *September 2017 - December 2019*
 
-- Bachelor in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*September 2013 - June 2017*
+- Bachelor in **Electrical and Computer Engineering**, Northeastern University, Shenyang, China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*September 2013 - June 2017*
 
 Getting started
 ======
