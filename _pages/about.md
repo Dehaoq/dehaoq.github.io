@@ -21,12 +21,12 @@ Education
 <p>
 <font size=3> 
 Ph.D. in <strong>Computer Science</strong>, Clemson University 
-, USA, <em>[Apr. 2023 - Present]</em>
+, USA , <em>[Apr. 2023 - Present]</em>
 </font>
 <br>
-<font size=2> 
+<font size=3> 
 Ph.D. in <strong>Electrical Engineering</strong>, Clemson University 
-, USA, <em>Jan. 2020 - Apr. 2023</em>
+, USA , <em>[Jan. 2020 - Apr. 2023]</em>
 </font>
 <br>
 <font size=3> 
@@ -35,12 +35,12 @@ Dissertation: <a href="[https://www.w3schools.com/](https://tigerprints.clemson.
 <br>
 <font size=3> 
 Master in <strong>Electrical and Computer Engineering</strong>, Northeastern University 
-, China, <em>Sep. 2017 - Dec. 2019</em>
+, China , <em>[Sep. 2017 - Dec. 2019]</em>
 </font>
 <br>
 <font size=3> 
 Bachelor in <strong>Electrical and Computer Engineering</strong>, Northeastern University
-, China, <em>Sep. 2013 - Jun. 2017</em>
+, China , <em>[Sep. 2013 - Jun. 2017]</em>
 </font>
 </p>
 
