@@ -22,16 +22,25 @@ Education
 Ph.D. in **Computer Science**, Clemson University 
 , USA, *Apr. 2023 - Present*        
 </font>
+
+<font size=7> 
 Ph.D. in **Electrical Engineering**, Clemson University 
 , USA, *Jan. 2020 - Apr. 2023*
+</font>
 
-  Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
-
+<font size=7> 
+Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
+</font>
+  
+<font size=7> 
 Master in **Electrical and Computer Engineering**, Northeastern University 
 , China, *Sep. 2017 - Dec. 2019*
+</font>
 
+<font size=7> 
 Bachelor in **Electrical and Computer Engineering**, Northeastern University
 , China, *Sep. 2013 - Jun. 2017*
+</font>
 
 
 
