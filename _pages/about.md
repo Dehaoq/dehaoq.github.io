@@ -10,9 +10,10 @@ redirect_from:
 
 I'm a Ph.D. student at Clemson University.
 
-**Research Interests:** 
-Computer Science: Computer Vision, Deep Learning
-Electrical Engineering: Power Electronics, Electrified Transportation
+Research Interests
+======
+**Computer Science**: Computer Vision, Deep Learning
+**Electrical Engineering**: Power Electronics, Electrified Transportation
 
 Education
 ======
