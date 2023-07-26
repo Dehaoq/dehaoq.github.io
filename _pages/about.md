@@ -21,7 +21,7 @@ Education
 <font size=7> 
 Ph.D. in **Computer Science**, Clemson University 
 , USA, *Apr. 2023 - Present*        
-
+</font>
 Ph.D. in **Electrical Engineering**, Clemson University 
 , USA, *Jan. 2020 - Apr. 2023*
 
@@ -33,7 +33,7 @@ Master in **Electrical and Computer Engineering**, Northeastern University
 Bachelor in **Electrical and Computer Engineering**, Northeastern University
 , China, *Sep. 2013 - Jun. 2017*
 
-</font>
+
 
 Getting started
 ======
