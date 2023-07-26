@@ -20,12 +20,12 @@ Education
 ======
 <font size=2> 
 Ph.D. in <strong>Computer Science</strong>, Clemson University 
-, USA, *Apr. 2023 - Present*        
+, USA, <em>Apr. 2023 - Present</em>        
 </font>
 
 <font size=2> 
 Ph.D. in <strong>Electrical Engineering</strong>, Clemson University 
-, USA, *Jan. 2020 - Apr. 2023*
+, USA, <em>Jan. 2020 - Apr. 2023</em>
 </font>
 
 <font size=2> 
@@ -34,12 +34,12 @@ Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, Syste
   
 <font size=2> 
 Master in <strong>Electrical and Computer Engineering</strong>, Northeastern University 
-, China, *Sep. 2017 - Dec. 2019*
+, China, <em>Sep. 2017 - Dec. 2019</em>
 </font>
 
 <font size=2> 
 Bachelor in <strong>Electrical and Computer Engineering</strong>, Northeastern University
-, China, *Sep. 2013 - Jun. 2017*
+, China, <em>Sep. 2013 - Jun. 2017</em>
 </font>
 
 
