@@ -18,30 +18,31 @@ Research Interests
 
 Education
 ======
+<p>
 <font size=2> 
 Ph.D. in <strong>Computer Science</strong>, Clemson University 
 , USA, <em>Apr. 2023 - Present</em>        
 </font>
-
+<br>
 <font size=2> 
 Ph.D. in <strong>Electrical Engineering</strong>, Clemson University 
 , USA, <em>Jan. 2020 - Apr. 2023</em>
 </font>
-
+<br>
 <font size=2> 
 Dissertation: <[Design and Implementation of High-Efficiency, Lightweight, System-Friendly Solid-State Circuit Breaker](https://tigerprints.clemson.edu/all_dissertations/3316/)>
 </font>
-  
+<br>
 <font size=2> 
 Master in <strong>Electrical and Computer Engineering</strong>, Northeastern University 
 , China, <em>Sep. 2017 - Dec. 2019</em>
 </font>
-
+<br>
 <font size=2> 
 Bachelor in <strong>Electrical and Computer Engineering</strong>, Northeastern University
 , China, <em>Sep. 2013 - Jun. 2017</em>
 </font>
-
+</p>
 
 
 Getting started
