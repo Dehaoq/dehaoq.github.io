@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at Clemson University.
+I am currently pursuing my second Ph.D. in computer science, with a focus on computer vision. Meanwhile, I hold a Ph.D. in electrical engineering.
 
 Research Interests
 ======
